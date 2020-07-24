@@ -36,6 +36,14 @@ _If she had drunk a bottle of whiskey yesterday, we would have had a great fun._
 
 Это микс 2-го и 3-го типов нереальных предложений в зависимости от того в каком времени находится главное или придаточное предложение.
 
-_If I had felt well yesterday, I wouldn't be so tired today_
+#### Может быть две комбинации:
 
-_If I had a mobile, I would've called you yesterday_
+**_1. Условие в прошлом с результатом в настоящем._**
+
+If + Past Perfect, - Subject + would/could + bare infinitive
+_If I had listened to my parents, I wouldn't be in so much trouble now_ (I didn't listen to my parents so I'm in lots of trouble now)
+
+**_2. Условие в настоящем с результатом в прошлом._**
+
+If + Past Simple/Continuous, - Subject + would/could + [have+Participle II]
+_If I had a mobile, I would've called you yesterday_ (I don't have a mobile so I didn't call you last night)
