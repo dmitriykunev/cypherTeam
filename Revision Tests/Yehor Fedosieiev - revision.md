@@ -2,7 +2,7 @@
 
 **_1. Если бы я был умнее (по жизни) то я бы сделал вчера бэкап всей базы и только потом применял свой ПР к коду на проде. Жаль что я не умный как мой папа._**
 
-> If I were smarter, I would have made backup of the whole DB yesterday and did I apply my PR to the code which is on Prod-server. If only I was smart like my dad.
+> If I were smarter, I would have made backup of the whole DB yesterday and did I apply my PR to the code which is on Prod-server. If only I would be smart like my dad.
 
 **_2. Если бы все студенты читали теорию и только потом писали перевод анализируя предложения, то прогресс бы был очевиден. Жаль что все хотят выучить английский брутфорсом, минуя ранние этапы обучения и анализа и отработки навыков до автоматизма. Я бы хотел чтобы вы не торопились._**
 
