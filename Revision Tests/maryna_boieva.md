@@ -2,15 +2,15 @@
 
 **_1. Если бы я был умнее (по жизни) то я бы сделал вчера бэкап всей базы и только потом применял свой ПР к коду на проде. Жаль что я не умный как мой папа._**
 
-> If only I were more clever, I would have made a backup of the database yesterday and only after that apply my PR to production. I wish, i were as clever as my father.
+> If only I were more clever, I would have made a backup of the database yesterday and only after that apply my PR to production. I wish, I were as clever as my father.
 
 **_2. Если бы все студенты читали теорию и только потом писали перевод анализируя предложения, то прогресс бы был очевиден. Жаль что все хотят выучить английский брутфорсом, минуя ранние этапы обучения и анализа и отработки навыков до автоматизма. Я бы хотел чтобы вы не торопились._**
 
-> If all the students had read the theory and only after that wrote a translation analysing the sentences, the progress would be obvious. If only every one didn't tried to learn English brute force, escaping the early stages of analisis and skills training. I wish you didn't hurry up.
+> If all the students read the theory and only after that wrote a translation analysing the sentences, the progress would be obvious. If only every one didn't tried to learn English brute force, escaping the early stages of analisis and skills training. I wish you didn't hurry up.
 
 **_3. Если бы сегодня мне не нужно было садиться за руль, то вчера бы я знатно набрался с друзьями в ближайшем баре и орал бы в микрофон свою любимую песню. Жаль что автопилот не является повсеместной функцией во всех автомобилях, это могло бы значительно разнообразить досуг водителей._**
 
-> If I hadn't had to drive today, I would have got drunk in the nearest bar with friends yesterday and screamed my favourite song in the microphone. If with the authopilot was a common function in all of the cars. It could greatly vary the drivers free time.
+> If I hadn't had to drive today, I would have got drunk in the nearest bar with friends yesterday and screamed my favourite song in the microphone. If only the authopilot was a common function in all of the cars. It could greatly vary the drivers free time.
 
 **_4. Если бы она проверяла работоспособность билда после слияния своих коммитов с мастером в прошлом, то сейчас бы у нее не было бы общения с клиентом по поводу даунтайма на проекте и финансовых потерях в целом._**
 
