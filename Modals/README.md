@@ -49,7 +49,11 @@ I was allowed to weara knee support during the match.
 | Expressing lack of past obligation         | needn't + Perfect Infinitive/didn't have to/didn't need to | I needn't have gone/didn't have to go/didn't need to go to the doctor                                               |
 
 > Обычно между модальными глаголами must и have to не существует разницы в утвердитыльных предложениях, но рекомендуется использовать must для внутренней необходимости (когда мы сами принимаем решение что нам стоит сделать) и have to для внешней необходимости (когда кто то решает что нам необходимо сделать).
+
 > Must не имеет формы будущего времени и меняется на will have to:
-> You will have to be more careful about what you eat in future.
-> Must обычно не используется в вопросах и меняется на have to/need to
-> Do I have to take this medicine before every meal?
+
+You will have to be more careful about what you eat in future.
+
+> Must обычно не используется в вопросах и меняется на have to/need to:
+
+Do I have to take this medicine before every meal?
