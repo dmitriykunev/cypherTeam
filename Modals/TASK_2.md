@@ -1,7 +1,7 @@
 #### Exercise 1. Choose the correct word or phrase. If both options are correct explain why.
 
 1. Hello. **Could/Can** I speak to Mrs. Johnson, please?
-2. We **could/were allowed to** go home early yesterday because our techer was ill.
+2. We **could/were allowed to** go home early yesterday because our teacher was ill.
 3. The head teacher said we **could/were allowed to** go home.
 4. Do you think I **should/could** be worried about these spots on my forehead.
 5. You **ought to/should** enter that talent contest.
