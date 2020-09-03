@@ -1,7 +1,7 @@
 #### Exercise 1. Choose the correct word or phrase. If both options are correct explain why.
 
 1. Hello. **Could/Can** I speak to Mrs. Johnson, please?
-2. We **could/were allowed to** go home early yesterday because our techer was ill.
+2. We **could/were allowed to** go home early yesterday because our teacher was ill.
 3. The head teacher said we **could/were allowed to** go home.
 4. Do you think I **should/could** be worried about these spots on my forehead.
 5. You **ought to/should** enter that talent contest.
@@ -49,3 +49,20 @@
 
 8. I don't believe Helen's been tryig to call us all day. The phone hasn't rung once. **been**
    Helen \_\_\_ to call us all day. The phone hasn't rung once.
+
+#### Exercise 4. Use the words below only once to complete the sentences In Table.
+
+| The Sentence                                                              | The meaning                                  |
+| :------------------------------------------------------------------------ | :------------------------------------------- |
+| 1. I \_\_\_ have left my bad on the bus.                                  | _expressing certainty_                       |
+| 2. In a few months, I'll be \_\_\_ to buy a car.                          | _expressing future ability_                  |
+| 3. I \_\_\_ drive when I was thirteen years old!                          | _expressing past ability_                    |
+| 4. No, you \_\_\_ have any more pocket money!                             | _refusing a request_                         |
+| 5. I think you \_\_\_ consider a career in the armed forces.              | _giving advice_                              |
+| 6. I \_\_\_ forget to phone Julie tonight!                                | _expressing personal obligation_             |
+| 7. I \_\_\_ to have a filling at the dentist's.                           | _expressing external obligation in the past_ |
+| 8. You \_\_\_ have to work a lot harder if you want to get a good report. | _expressing future obligation_               |
+| 9. You don't \_\_\_ to make the unit test today.                          | _expressing a lack of obligation_            |
+| 10. They \_\_\_ to arrive at about 8.                                     | _expressing probability_                     |
+| 11. Sean \_\_\_ have got stuck in traffic.                                | _expressing possibility_                     |
+| 12. I \_\_\_ have worried so much about Jan's present. She loved it!      | _expressing a lack of past obligation_       |

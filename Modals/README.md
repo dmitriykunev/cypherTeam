@@ -57,3 +57,15 @@ You will have to be more careful about what you eat in future.
 > Must обычно не используется в вопросах и меняется на have to/need to:
 
 Do I have to take this medicine before every meal?
+
+##### Модальные глаголы выражение степени уверенности
+
+| Use                                                             | Modal                                     | Examples                                                                                                    |
+| :-------------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| Expressing certainty (or near certainty) about now or generally | must/can't/couldn't                       | That must be the district nurse at the doctor. These can't/couldn't be the pills, they are the wrong colour |
+| Expressing certainty (or near certainty) about the past         | must/can't/couldn't + Perfect Infinitive) | She must have been in a lot of pain. His leg can't/couldn't have been in plaster for two years.             |
+| Expressing probability about now, the future or generally       | should/ought to                           | You ought to/should feel better in a few days, as long as you get lots of rest.                             |
+| Expressing probability about the past                           | should/ought to + Perfect Infinitive      | The bruise ought to/should have disappeared days ago. I wonder why it didn't.                               |
+| Expressing possibility about now, the future or generally       | could/may/might                           | You should talk to your doctor first because that diet could/may/might be dangerous.                        |
+| Expressing possibility about the real past                      | could/may/might + Perfect Infinitive      | That could/may/might have been the doctor who rang earlier while we were out.                               |
+| Expressing possibility about a hypothetical past                | could/might + Perfect Infinitive          | It's a good thing you went to the doctor or you could/might have become quite ill.                          |
